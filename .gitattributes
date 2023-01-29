@@ -76,3 +76,4 @@ LICENSE-README text eol=crlf
 *.rar binary
 *.tgz binary
 *.tar binary
+*.mp4 filter=lfs diff=lfs merge=lfs -text
