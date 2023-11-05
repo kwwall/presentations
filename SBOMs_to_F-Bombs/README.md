@@ -10,7 +10,7 @@ OWASP AppSec DC slide deck is presented here.
 ```
 Filename                                        Description
 ========================================================================================================================
-kwwall-OWASP-2023-SBOMs_to_F-Bombs.odp          Slide deck w/ speaker's notes, in Open Document Format.
+kwwall-OWASP-2023-SBOMs_to_F-Bombs.odp          Slide deck w/ speaker's notes, in Open Document Presentation format.
 kwwall-OWASP-2023-SBOMs_to_F-Bombs.pptx         Slide deck w/ speaker's notes, in PowerPoint 2007 365 format.
 kwwall_notes-OWASP-2023-SBOMs_to_F-Bombs.pdf    Slide deck w/ speaker's notes, in Adobe Portable Document Format.
 kwwall-OWASP-2023-SBOMs_to_F-Bombs.pdf          Slide deck alone (no speaker's notes), in Adobe Portable Document Format.
